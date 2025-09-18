@@ -14,9 +14,7 @@ header_pages:
   - about.md
 
 # Add custom CSS
-sass:
+sass: assets/css/style.scss
   style: compressed
 
-# Make sure the site uses your stylesheet
-include:
-  - assets/css/style.scss
+

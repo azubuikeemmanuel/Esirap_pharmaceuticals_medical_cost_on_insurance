@@ -6,12 +6,12 @@
 - [objective](#objective)
 - [data source](#datasource)
 - [design](#design)
- - [tools](#tools)
+  - [tools](#tools)
 - [data cleaning](#datacleaning)
 - [visualization](#visualization)
 - [analysis](#analysis)
- - [findings](#findings)
- - [recommendations](#recommendations)
+  - [findings](#findings)
+  - [recommendations](#recommendations)
 - [conclusion](#conclusion)
 
 

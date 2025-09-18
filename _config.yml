@@ -1,1 +1,51 @@
+# _config.yml
+title: "Data Analysis Portfolio"
+author: "Azubuike Emmanuel"
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Site settings
+url: "https://azubuikeemmanuel.github.io"
+baseurl: "/portfolio"
+
+# Social media links
+social_links:
+  github: "https://github.com/"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  twitter: "https://twitter.com/yourhandle"
+
+# Navigation bar
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"
+  - name: "About"
+    link: "/about"
+  - name: "Contact"
+    link: "/contact"
+
+# Markdown and syntax highlighting
+markdown: kramdown
+highlighter: rouge
+
+# Plugins for extra functionality
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Your Name"
 

@@ -1,20 +1,6 @@
-title: "My Data Analysis Portfolio"
-
-logo: documents/IMG_1097.jpeg
-theme: minima
-
-# Include custom CSS for styling
+title: Azubuike Emmanuel
+logo: 
+show_downloads: True
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-seo-tag
-
-# Add navigation links
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-
-# Add custom CSS
-sass: assets/css/style.scss
-  style: compressed
-
-
+- jekyll-remote-theme 

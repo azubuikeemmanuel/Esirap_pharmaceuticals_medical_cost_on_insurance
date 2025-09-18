@@ -11,20 +11,11 @@ baseurl: "/portfolio"
 
 # Social media links
 social_links:
-  github: "https://github.com/"
-  linkedin: "https://linkedin.com/in/yourprofile"
-  twitter: "https://twitter.com/yourhandle"
+  github: "https://github.com/azubuikeemmanuel"
+  linkedin: "https://linkedin.com/in/azubuike-emmanuel01"
+  
 
-# Navigation bar
-nav:
-  - name: "Home"
-    link: "/"
-  - name: "Projects"
-    link: "/projects"
-  - name: "About"
-    link: "/about"
-  - name: "Contact"
-    link: "/contact"
+
 
 # Markdown and syntax highlighting
 markdown: kramdown
@@ -36,9 +27,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-# Pagination
-paginate: 5
-paginate_path: "/page:num/"
 
 # Defaults
 defaults:
@@ -47,5 +35,5 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: "Your Name"
+      author: "Azubuike Emmanuel"
 

@@ -84,7 +84,7 @@ How where the charts prepared?
 
 Excel pivot table was used to create the following charts:
 
-![pivot chart 1](
+![pivot chart 1](assets/images/The pivot table 1.png)
 
 
 

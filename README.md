@@ -80,4 +80,9 @@ The cleaned data met the following criteria and constraints:
 
 # Visualisation
 
+How where the charts prepared?
+
+Excel pivot table was used to create the following charts:
+
+![pivot_table_charts]()
 

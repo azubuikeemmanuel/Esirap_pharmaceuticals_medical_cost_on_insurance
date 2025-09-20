@@ -114,4 +114,4 @@ The dashboard contained all the metrics used in conducting the analysis and depi
 
 
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)

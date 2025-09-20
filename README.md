@@ -84,13 +84,13 @@ How where the charts prepared?
 
 Excel pivot table was used to create the following charts:
 
-![pivot_table_charts 1](assets/images/The pivot table 1.png)
+![pivot chart 1](
 
 
 
-![pivot table charts 2](assets/images/The pivot table 2.png)
 
 
 
-![pivot table charts 3](assets/images/The pivot table 3.png)
+
+
 

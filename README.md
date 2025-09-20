@@ -95,7 +95,9 @@ Excel pivot table was used to create the following charts:
 ![pivot chart 2](https://github.com/azubuikeemmanuel/Esirap_pharmaceuticals_medical_cost_on_insurance/blob/main/assets/images/The%20pivot%20table%203.png)
 
 
-![pivot chart 3]()
+
+
+![pivot chart 3](https://github.com/azubuikeemmanuel/Esirap_pharmaceuticals_medical_cost_on_insurance/blob/main/assets/images/The%20pivot%20table%201.png)
 
 
 

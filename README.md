@@ -86,10 +86,10 @@ Excel pivot table was used to create the following charts:
 
 
 
-![pivot chart 1](assets/images/thepivottable1.png)
+![pivot chart 1](documents/IMG_1097.jpeg)
 
 
-assets/images/The pivot table 1.png
+
 
 
 

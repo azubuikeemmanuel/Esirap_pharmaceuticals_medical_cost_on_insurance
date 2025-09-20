@@ -114,4 +114,3 @@ The dashboard contained all the metrics used in conducting the analysis and depi
 
 
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)

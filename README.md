@@ -108,7 +108,7 @@ What does the dashboard look like?
 The dashboard contained all the metrics used in conducting the analysis and depicted the trends and correlations in the dataset.
 
 
-![excel dashboard]()
+![excel dashboard](assets/images/The dashboard.png)
 
 
 

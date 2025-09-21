@@ -97,7 +97,7 @@ Excel pivot table was used to create the following charts:
 
 
 
-![pivot chart 3]()
+![pivot chart 3](assets/images/The pivot table 3.png)
 
 
 

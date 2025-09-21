@@ -24,7 +24,7 @@ The aim of this analysis was to ascertain the major contributors to the peaked i
 
 - What where the datasets needed to conduct this project?
 
-To conduct this analysis the record of the health and demographic data of each individual insured by esirap pharmaceuticals, some of which were:W
+To conduct this analysis the record of the health and demographic data of each individual insured by esirap pharmaceuticals, some of which were:
 
 - The age of the insured individuals
 - The gender

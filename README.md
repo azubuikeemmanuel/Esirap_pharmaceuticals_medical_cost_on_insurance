@@ -111,4 +111,36 @@ The dashboard contained all the metrics used in conducting the analysis and depi
 ![excel dashboard](assets/images/The dashboard.png)
 
 
+# Analysis
+
+## Findings 
+
+What discoveries where made as a result of this analysis?
+
+As a result of conducting this analysis I was able to identify certain insights from the dataset, some of which were that:
+
+- The old age group incurred the highest medical charges from esirap pharmaceuticals.
+- The group of insurred personel with a Body Mass Index(BMI) of 32.5 incurred the most medical charges in comparison with other individuals of lower BMI.
+- Individuals of higher BMI are more populated in the south-east region than any other region examined.
+- The male gender incurred more medical charges than the females.
+- 79% of the total medical charges were incurred by smokers while non smokers only incurred 21%.
+  
+
+## Recommendations
+
+After conducting the analysis and making significant findings I issued out recommendations tailored to boosting the operation efficiency of the organization and the betterment of the society at large. 
+
+I recommended that:
+
+- The southeast should carry out a program in order to reduce the amount of obese people that populates that region in order to reduce the medical charges incurred in that region.
+
+- The after effects of smoking should be more emphasized and programs be done by the hospital to reduce the amount of insurred personel that engage in smoking and other life threatning activities.
+
+- The young adults to mid middle age groups should be advised to take care of their body while they are young by engaging in sports and other extracurricular activities in order to reduce the risk of being hospitalized.
+
+
+# Conclusion
+
+This project conducted depicted a lot of significant insights which should be emphasised and educated more in our society. Some of which where that smokers are most likely to be hospitalized and incure a lot of medical charges and debt, that it is advisable to ensure your Body Mass Index (BMI) always shows that you are not overweight but also not underweight so as to remain healthy and reduce the risk of needing medical attention and lastly this project analysis identifified that engagaing in sports and other extracurricular activities is beneficial to both the young and the old age groups as it keeps you fit, energetic and reduces the risk of being medicated. 
+
 

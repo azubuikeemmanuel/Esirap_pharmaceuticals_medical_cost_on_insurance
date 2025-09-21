@@ -22,7 +22,7 @@ The aim of this analysis was to ascertain the major contributors to the peaked i
 
 # Data source
 
-- What where the datasets needed to conduct this project?
+What where the datasets needed to conduct this project?
 
 To conduct this analysis the record of the health and demographic data of each individual insured by esirap pharmaceuticals, some of which were:
 
